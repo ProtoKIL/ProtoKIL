@@ -1,16 +1,22 @@
-## Hi there 👋
+# Proto Kil
 
+Mechanical Engineering student focused on robotics hardware, mechanical design, and system integration.
+
+I build robots that move, sense, and solve real-world problems.
+
+## Currently working on
+- DIY Delta 3D Printer
+- Mountain Rescue Robot
+- Robotics Hardware Portfolio
+
+## Featured Projects
+- Mountain Rescue Robot — autonomous navigation, sensor integration, ROS
+- Basketball Shooting Robot — vision-based alignment and shooting mechanism
+- Delta 3D Printer — mechanical design, Klipper, custom cooling duct
+
+## Interests
+Robotics Hardware · Mechanical Design · Sensor Integration · ROS · 3D Printing
 <!--
-**ProtoKIL/ProtoKIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+[View Portfolio]
+--!>
