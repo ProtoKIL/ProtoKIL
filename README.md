@@ -1,6 +1,6 @@
 # Proto Kil
 
-Mechanical Engineering student focused on robotics hardware, mechanical design, and system integration.
+Mechanical Engineer focused on robotics hardware, mechanical design, and system integration.
 
 I build robots that move, sense, and solve real-world problems.
 
